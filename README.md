@@ -13,11 +13,12 @@ The main objectives of this project are to analyze employee salary data, compare
 
 ## Skills and Tools Used
 
-Microsoft Excel
-Data Analysis
-Pivot Tables
-Data Visualization
-Dashboard Creation
+* Microsoft Excel
+* Data Analysis
+* Pivot Tables
+* Data Visualization
+* Dashboard Creation
+
 
 ## Dashboard Preview
 
